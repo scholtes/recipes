@@ -1,7 +1,7 @@
 Nashville Hot Chicken Sandwiches
 ================================
 
-Nashville hot chicken is a style of fried chicken (with a buttermilk dredge) that is covered in either dry or "wet" (oily, not water) mixture of hot spices (mainly cayenne). As a sandwich it is traditionally served either on white bread buns (plain hamburger buns) or on biscuits.
+Nashville hot chicken is a style of fried chicken (with a buttermilk dredge) that is covered in either dry or "wet" (oil, not water) mixture of hot spices (mainly cayenne). As a sandwich it is traditionally served either on white bread buns (plain hamburger buns) or on biscuits.
 
 Recommended: serve with fries and extra cole slaw.  
 
@@ -24,12 +24,12 @@ Ingredients
 - Buns
   - I prefer brioche buns. Other common options are generic white buns or biscuits
 - Pickles (your preferred variety)
-- **Marinade**
-- **Wet rub**
-- **Flour mix**
-- **Cole slaw**
-- **Comeback sauce**
-- **Ranch**
+- [**Marinade**](#marinade)
+- [**Wet rub**](#wet-rub)
+- [**Flour mix**](#flour-mix)
+- [**Cole slaw**](#cole-slaw)
+- [**Comeback sauce**](#comeback-sauce)
+- [**Ranch**](#ranch)
 
 Steps
 -----
@@ -40,13 +40,14 @@ Steps
 4. Prepare **cole slaw**
 5. Prepare **comeback sauce**
 6. Prepare **Ranch**
-7.  Dredge chicken through **flour mix**
+7. Dredge chicken through **flour mix**
 8. Dredge floured chicken through **marinade**
 9. Re-dredge wet chicken through **flour mix**
 10. Heat oil to 350 F -- about 2" deep, or enough to barely cover chicken
 11. Deep fry chicken to 160 F (breasts) 165 F (thighs), about 6 to 8 minutes total (some recipes call for longer). Best bet, until the outside looks browned.
 12. Finish preparing **wet rub** with used oil (let oil cool for 5 to 10 minutes first)
-13. Serve chicken on bun with pickles, **cole slaw**, **comeback sauce**, and **ranch**. Suggested order:
+13. Apply wet rub to fried chicken (don't do this to pieces that will become leftovers -- apply right before serving to preserve breading crunchiness)
+14. Serve chicken on bun with pickles, **cole slaw**, **comeback sauce**, and **ranch**. Suggested order:
   - Bottom bun
   - Cole slaw (generously)
   - Chicken
@@ -97,6 +98,26 @@ Steps
 2. Start deep frying chicken
 3. After deep frying, allow oil to cool for 5 to 10 minutes. Collect 1/4 cup and mix with remaining ingredients (this will melt the butter)  
 4. End result should be fairly thick but spreadable with a basting brush
+
+Flour mix
+=========
+
+The quantities here are generous, you do not want to run out during the process. If you do run out, eyeball adding extra flour and spices (exactness doesn't matter, the important flavors come during the wet rub)
+
+Ingredients
+-----------
+
+- 2 cups flour
+- 1/2 Tbsp cayenne
+- 1/2 Tbsp paprika
+- 1/2 Tbsp salt
+- 1/2 Tbsp black pepper
+
+Steps
+-----
+
+1. Mix all ingredients
+2. Spread on large plate so that chicken can later be dredged through it
 
 Comeback sauce
 ==============
