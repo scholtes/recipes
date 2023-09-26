@@ -151,6 +151,7 @@ Ingredients
 -----------
 
 - Bag of coleslaw mix at store (look for the salad kits and pick one with cabbage)
+- 1/2 cup mayo
 - 1+1/2 Tbsp vinegar (or ACV)
 - 2 tsp sugar (or to taste)
 - 1/2 tsp celery seed (this is the star ingredient most responsible for the flavor)
