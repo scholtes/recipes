@@ -54,3 +54,8 @@ Pour sauce on top (top layer).
 Put in oven for 35 to 40 minutes (check-in at 25 minutes).
 
 Let the pizza cool for at least 15 minutes before cutting.
+
+---
+
+Most of this recipe comes from Brian Langerstrom. This is based on his old recipe, but you can see his improved version here:
+https://www.youtube.com/watch?v=w_KCLeG9Hwo
